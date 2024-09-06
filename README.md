@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">Junior Software Developer from Turkey | Experience in front-end and back-end technologies | Passionate about Data Science and ML as well | Committed to elegant, efficient code solutions</h3>
+<h3 align="center">Junior Software Developer from Turkey | Experience in front-end and back-end technologies | Passionate about Data Science, ML and Mobile Development as well | Committed to elegant, efficient code solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertyilmaz5&label=Profile%20views&color=0e75b6&style=flat" alt="mertyilmaz5" /> </p>
 
